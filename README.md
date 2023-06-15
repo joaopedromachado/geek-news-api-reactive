@@ -38,3 +38,6 @@ Use a API de notícias do NewsAPI.org ou outra API de sua escolha. Use o cliente
 
 ## Dockerização
 Crie um arquivo Dockerfile na raiz do seu projeto para criar uma imagem Docker da sua aplicação.
+
+## Documentação
+Adicione Swagger para documentar a API Geek News.
